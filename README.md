@@ -1,46 +1,41 @@
-<!-- Capsule Render Header: Minimalist Soft Rect -->
-![Capsule Render](https://capsule-render.vercel.app/render?type=rect&color=ececec&height=180&section=header&text=[اسمك الكامل، مثلاً: نور علي]&fontSize=45&fontColor=333&fontAlign=50&fontAlignY=50)
+<!-- Header section with Synthwave Neon Theme -->
+![Header](https://capsule-render.vercel.app/render?type=soft&color=0d1117&height=220&section=header&text=Hello!%20I'm%20Ibrahim&fontSize=52&fontColor=ff2a74&animation=twinkling&fontAlign=50)
 
 <div align="center">
-  <h2>A Dedicated Software Engineer Driven by Innovation</h2>
-  <p>Bridging the gap between complex problems and elegant solutions.</p>
+  <code>cybersecurity researcher // pentester // full-stack dev <3</code>
 </div>
 
 <br>
 
-## 💼 Professional Summary
-<!-- هنا بتكتب نبذة قصيرة جداً ومحترفة عن نفسك -->
-- 🎓 [جامعتك وتخصصك، مثلاً: B.Sc. in Computer Engineering]
-- 🏢 [مكان شغلك الحالي أو السابق، مثلاً: SDE at TechCorp]
-- 🎯 [هدفك المهني، مثلاً: Focusing on Scalable Backend Architectures]
-
 ---
 
-## 🛠️ Expertise & Stack
-<!-- Tech Stack with a single, professional color scheme -->
+### 🗡️ Cyber Arsenal & Tech Stack
+
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-0052cc?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-SQL-0052cc?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-AWS-0052cc?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Go-0052cc?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Docker-0052cc?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-121212?style=for-the-badge&logo=python&logoColor=ff2a74" />
+  <img src="https://img.shields.io/badge/C%2B%2B-121212?style=for-the-badge&logo=c%2B%2B&logoColor=00f2fe" />
+  <img src="https://img.shields.io/badge/Bash-121212?style=for-the-badge&logo=gnu-bash&logoColor=ff2a74" />
+  <img src="https://img.shields.io/badge/JavaScript-121212?style=for-the-badge&logo=javascript&logoColor=f7df1e" />
   <br>
-  <!-- اضف المزيد من التكنولوجيات اللي بتعرفها هون بنفس الستايل -->
+  <img src="https://img.shields.io/badge/BurpSuite-121212?style=for-the-badge&logo=burpsuite&logoColor=00f2fe" />
+  <img src="https://img.shields.io/badge/Kali_Linux-121212?style=for-the-badge&logo=kali-linux&logoColor=ff2a74" />
+  <img src="https://img.shields.io/badge/Metasploit-121212?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-121212?style=for-the-badge&logo=wireshark&logoColor=00f2fe" />
 </p>
 
 ---
 
-## 📊 Core Performance Metrics
+### 📊 GitHub & Security Stats
+
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=[اكتب_اسم_حسابك_هون]&show_icons=true&title_color=333&icon_color=0052cc&text_color=555&bg_color=fdfdfd&hide_border=false" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[اكتب_اسم_حسابك_هون]&layout=compact&langs_count=5&title_color=333&icon_color=0052cc&text_color=555&bg_color=fdfdfd&hide_border=false&hide=ipynb" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&title_color=ff2a74&icon_color=00f2fe&text_color=c9d1d9&bg_color=0d1117&hide_border=true&count_private=true" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=5&title_color=ff2a74&icon_color=00f2fe&text_color=c9d1d9&bg_color=0d1117&hide_border=true" />
 </p>
 
 ---
 
-## 🔗 Get in Touch
+### 📈 Activity Graph
+
 <p align="center">
-  <!-- الروابط بدون شارات، مجرد ايقونات صغيرة، للمظهر الهادئ -->
-  <a href="https://linkedin.com/in/[حساب_لينكدإن]"><img src="https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin&logoColor=0077b5" target="_blank"></a>
-  <a href="[موقعك_الشخصي_أو_البورتفوليو]"><img src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=web&logoColor=ffdf00" target="_blank"></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true&color=ff2a74" />
 </p>
