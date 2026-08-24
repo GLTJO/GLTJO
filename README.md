@@ -1,24 +1,41 @@
-<!-- Capsule Render Header: Glitch/Neon Noir -->
-![Capsule Render](https://capsule-render.vercel.app/render?type=glitch&color=000000&height=300&section=header&text=H@CK_THE_VOID //&fontSize=70&fontColor=00ff00&animation=fadeIn&fontAlign=50&fontAlignY=50)
+<!-- Capsule Render Header: Animating -->
+![Capsule Render](https://capsule-render.vercel.app/render?type=soft&color=f4d03f&height=200&section=header&text=CODER%20MODE:%20[اسمك]%20//&fontSize=50&fontColor=black&animation=twinkling&fontAlign=50)
 
 <div align="center">
-  <h3>I AM [اسمك الشهرة أو الكامل]</h3>
-  <b>Cybersecurity Architect | Full-Stack Dev | Bug Hunter | Red Teamer</b>
-  <br>
-  <code>[ Root @ [اسم_كنيتك] ] > _</code>
+  <h3>I Build, Break, & Improve Things with Code!</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?color=ff4500&lines=Full-Stack%20Developer;Open%20Source%20Contributor;Game%20Dev%20Enthusiast;Problem%20Solver" />
 </div>
 
 <br>
+
+---
+
+## <img src="https://img.icons8.com/color/48/000000/hammer.png" width="28"/> Building My Game Level (TECH)
+<!-- Gif icons can make it fun, or keep these badges -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=System.pwn();;Vulnerability+Research;;Active+Threat+Hunting;;Exploit+Development" />
+  <img src="https://img.shields.io/badge/-Unity-1d1d1d?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JS-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white"/>
 </p>
 
 ---
 
-## <img src="https://img.icons8.com/nolan/64/matrix.png" width="30"/> System Logs (About Me)
-<!-- نبذة قصيرة ولكن بكلمات قوية أمنية -->
-```bash
-$ cat status.log
-> Current Status: Hunting Bugs... 🕷️
-> Area of Expertise: OWASP Top 10, Network Pwning, Reverse Engineering.
-> Mission: Secure the digital world, one 0-day at a time.
+## <img src="https://img.icons8.com/color/48/000000/graph.png" width="28"/> Quest Log (DYNAMIC STATS)
+<!-- Highlight the Streak - very important for this theme -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[اكتب_اسم_حسابك_هون]&theme=black-ice&hide_border=true&mode=daily" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=[اكتب_اسم_حسابك_هون]&show_icons=true&title_color=f1c40f&icon_color=ff4500&text_color=fff&bg_color=1c1c1c&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[اكتب_اسم_حسابك_هون]&layout=compact&langs_count=7&title_color=f1c40f&icon_color=ff4500&text_color=fff&bg_color=1c1c1c&hide_border=true" />
+</p>
+
+---
+
+## <img src="https://img.icons8.com/color/48/000000/contact-announcement.png" width="28"/> Recruit the Player
+<p align="center">
+  <a href="https://linkedin.com/in/[حساب_لينكدإن]"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077b5" target="_blank"></a>
+  <a href="https://twitter.com/[حساب_تويتر/اكس]"><img src="https://img.shields.io/badge/-X-000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
+</p>
